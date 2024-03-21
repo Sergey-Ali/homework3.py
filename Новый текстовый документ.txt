@@ -1,0 +1,23 @@
+C:\Users\admin\PycharmProjects\pythonProject4\.venv\Scripts\python.exe C:\Users\admin\PycharmProjects\pythonProject4\Homeworks\homework3.py 
+напишите название города: Москва
+<class 'str'>
+
+
+my_string = "мой город Москва"
+print(len(my_string))
+my_string = 'Мой город Москва'
+my_string = my_string.upper()
+print(my_string)
+my_string = 'Мой город Москва'
+my_string = my_string.lower()
+print(my_string)
+my_string = 'Мой город Москва'
+print(my_string[0:1])
+my_string = 'Мой город Москва'
+print(my_string[-1])
+
+16
+МОЙ ГОРОД МОСКВА
+мой город москва
+М
+а
